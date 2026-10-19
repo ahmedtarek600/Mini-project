@@ -1,0 +1,15 @@
+D:\الرواد\Technical\C#\SimpleBank\SimpleBank\obj\Debug\net10.0\SimpleBank.GeneratedMSBuildEditorConfig.editorconfig
+D:\الرواد\Technical\C#\SimpleBank\SimpleBank\obj\Debug\net10.0\SimpleBank.AssemblyInfoInputs.cache
+D:\الرواد\Technical\C#\SimpleBank\SimpleBank\obj\Debug\net10.0\SimpleBank.AssemblyInfo.cs
+D:\الرواد\Technical\C#\SimpleBank\SimpleBank\obj\Debug\net10.0\SimpleBank.csproj.CoreCompileInputs.cache
+D:\الرواد\Technical\C#\SimpleBank\SimpleBank\bin\Debug\net10.0\SimpleBank.exe
+D:\الرواد\Technical\C#\SimpleBank\SimpleBank\bin\Debug\net10.0\SimpleBank.deps.json
+D:\الرواد\Technical\C#\SimpleBank\SimpleBank\bin\Debug\net10.0\SimpleBank.runtimeconfig.json
+D:\الرواد\Technical\C#\SimpleBank\SimpleBank\bin\Debug\net10.0\SimpleBank.dll
+D:\الرواد\Technical\C#\SimpleBank\SimpleBank\bin\Debug\net10.0\SimpleBank.pdb
+D:\الرواد\Technical\C#\SimpleBank\SimpleBank\obj\Debug\net10.0\SimpleBank.dll
+D:\الرواد\Technical\C#\SimpleBank\SimpleBank\obj\Debug\net10.0\refint\SimpleBank.dll
+D:\الرواد\Technical\C#\SimpleBank\SimpleBank\obj\Debug\net10.0\SimpleBank.pdb
+D:\الرواد\Technical\C#\SimpleBank\SimpleBank\obj\Debug\net10.0\SimpleBank.genruntimeconfig.cache
+D:\الرواد\Technical\C#\SimpleBank\SimpleBank\obj\Debug\net10.0\ref\SimpleBank.dll
+D:\الرواد\Technical\C#\SimpleBank\SimpleBank\obj\Debug\net10.0\SimpleBank.csproj.Up2Date
