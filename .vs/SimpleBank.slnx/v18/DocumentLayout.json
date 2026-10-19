@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0627\u0644\u0631\u0648\u0627\u062F\\Technical\\C#\\SimpleBank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82BB7CF0-CE90-E5A0-FB4A-F385B071ABFC}|SimpleBank\\SimpleBank.csproj|d:\\\u0627\u0644\u0631\u0648\u0627\u062F\\technical\\c#\\simplebank\\simplebank\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BB7CF0-CE90-E5A0-FB4A-F385B071ABFC}|SimpleBank\\SimpleBank.csproj|solutionrelative:simplebank\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BB7CF0-CE90-E5A0-FB4A-F385B071ABFC}|SimpleBank\\SimpleBank.csproj|d:\\\u0627\u0644\u0631\u0648\u0627\u062F\\technical\\c#\\simplebank\\simplebank\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BB7CF0-CE90-E5A0-FB4A-F385B071ABFC}|SimpleBank\\SimpleBank.csproj|solutionrelative:simplebank\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BB7CF0-CE90-E5A0-FB4A-F385B071ABFC}|SimpleBank\\SimpleBank.csproj|d:\\\u0627\u0644\u0631\u0648\u0627\u062F\\technical\\c#\\simplebank\\simplebank\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BB7CF0-CE90-E5A0-FB4A-F385B071ABFC}|SimpleBank\\SimpleBank.csproj|solutionrelative:simplebank\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CurrentAccount.cs",
+              "DocumentMoniker": "D:\\\u0627\u0644\u0631\u0648\u0627\u062F\\Technical\\C#\\SimpleBank\\SimpleBank\\CurrentAccount.cs",
+              "RelativeDocumentMoniker": "SimpleBank\\CurrentAccount.cs",
+              "ToolTip": "D:\\\u0627\u0644\u0631\u0648\u0627\u062F\\Technical\\C#\\SimpleBank\\SimpleBank\\CurrentAccount.cs",
+              "RelativeToolTip": "SimpleBank\\CurrentAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T15:55:50.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\\u0627\u0644\u0631\u0648\u0627\u062F\\Technical\\C#\\SimpleBank\\SimpleBank\\Account.cs",
+              "RelativeDocumentMoniker": "SimpleBank\\Account.cs",
+              "ToolTip": "D:\\\u0627\u0644\u0631\u0648\u0627\u062F\\Technical\\C#\\SimpleBank\\SimpleBank\\Account.cs",
+              "RelativeToolTip": "SimpleBank\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T15:42:50.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "D:\\\u0627\u0644\u0631\u0648\u0627\u062F\\Technical\\C#\\SimpleBank\\SimpleBank\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "SimpleBank\\SavingsAccount.cs",
+              "ToolTip": "D:\\\u0627\u0644\u0631\u0648\u0627\u062F\\Technical\\C#\\SimpleBank\\SimpleBank\\SavingsAccount.cs",
+              "RelativeToolTip": "SimpleBank\\SavingsAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T15:40:30.183Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
