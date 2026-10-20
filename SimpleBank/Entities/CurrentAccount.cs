@@ -1,5 +1,4 @@
-
-namespace SimpleBank;
+namespace SimpleBank.Entities;
 
 public class CurrentAccount : Account
 {
@@ -29,12 +28,8 @@ public class CurrentAccount : Account
 
     public override string GetDetails()
     {
-
-
         string line1 = $"[Current] Account: {AccountNumber} | Client: {ClientName}";
         string line2 = FormattableString.Invariant($" Balance: ${Balance:F2} | Extra Limit: ${ExtraLimit:F2}");
         return line1 + Environment.NewLine + line2;
-
-
     }
 }
