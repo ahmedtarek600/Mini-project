@@ -10,9 +10,9 @@ namespace SimpleBank
         {
             List<Account> accounts = new List<Account>()
             {
-                new SavingsAccount("SA-101", "Yasmin Nasser", 3000m, 5.0m),
-                new CurrentAccount("CA-202", "Ahmed Atef", 1000m, 1500m),
-                new SavingsAccount("SA-103", "Shahd Sameh", 5000m, 4.5m)
+                new SavingsAccount("SA-101", "Ahmed Mahmoud", 5000m, 6.0m),
+                new CurrentAccount("CA-202", "Mohamed tarek", 3000m, 2000m),
+                new SavingsAccount("SA-103", "Hassan Naser", 4000m, 3.5m)
             };
 
             bool isRunning = true;
