@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 .vs/ 
+=======
+# Visual Studio temporary files
+.vs/
+
+# Build output
+bin/
+obj/
+>>>>>>> d68c348333cb186722e6bcb9979708e3f5622901

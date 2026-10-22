@@ -1,0 +1,31 @@
+D:\الرواد\Technical\C#\SimpleBank\SimpleBank\obj\Debug\net10.0\SimpleBank.GeneratedMSBuildEditorConfig.editorconfig
+D:\الرواد\Technical\C#\SimpleBank\SimpleBank\obj\Debug\net10.0\SimpleBank.AssemblyInfoInputs.cache
+D:\الرواد\Technical\C#\SimpleBank\SimpleBank\obj\Debug\net10.0\SimpleBank.AssemblyInfo.cs
+D:\الرواد\Technical\C#\SimpleBank\SimpleBank\obj\Debug\net10.0\SimpleBank.csproj.CoreCompileInputs.cache
+D:\الرواد\Technical\C#\SimpleBank\SimpleBank\bin\Debug\net10.0\SimpleBank.exe
+D:\الرواد\Technical\C#\SimpleBank\SimpleBank\bin\Debug\net10.0\SimpleBank.deps.json
+D:\الرواد\Technical\C#\SimpleBank\SimpleBank\bin\Debug\net10.0\SimpleBank.runtimeconfig.json
+D:\الرواد\Technical\C#\SimpleBank\SimpleBank\bin\Debug\net10.0\SimpleBank.dll
+D:\الرواد\Technical\C#\SimpleBank\SimpleBank\bin\Debug\net10.0\SimpleBank.pdb
+D:\الرواد\Technical\C#\SimpleBank\SimpleBank\obj\Debug\net10.0\SimpleBank.dll
+D:\الرواد\Technical\C#\SimpleBank\SimpleBank\obj\Debug\net10.0\refint\SimpleBank.dll
+D:\الرواد\Technical\C#\SimpleBank\SimpleBank\obj\Debug\net10.0\SimpleBank.pdb
+D:\الرواد\Technical\C#\SimpleBank\SimpleBank\obj\Debug\net10.0\SimpleBank.genruntimeconfig.cache
+D:\الرواد\Technical\C#\SimpleBank\SimpleBank\obj\Debug\net10.0\ref\SimpleBank.dll
+D:\الرواد\Technical\C#\SimpleBank\SimpleBank\obj\Debug\net10.0\SimpleBank.csproj.Up2Date
+E:\رواد مصر الرقمية\Technical\EF Core Session 1\Mini\SimpleBank\bin\Debug\net10.0\SimpleBank.exe
+E:\رواد مصر الرقمية\Technical\EF Core Session 1\Mini\SimpleBank\bin\Debug\net10.0\SimpleBank.deps.json
+E:\رواد مصر الرقمية\Technical\EF Core Session 1\Mini\SimpleBank\bin\Debug\net10.0\SimpleBank.runtimeconfig.json
+E:\رواد مصر الرقمية\Technical\EF Core Session 1\Mini\SimpleBank\bin\Debug\net10.0\SimpleBank.dll
+E:\رواد مصر الرقمية\Technical\EF Core Session 1\Mini\SimpleBank\bin\Debug\net10.0\SimpleBank.pdb
+E:\رواد مصر الرقمية\Technical\EF Core Session 1\Mini\SimpleBank\obj\Debug\net10.0\SimpleBank.GeneratedMSBuildEditorConfig.editorconfig
+E:\رواد مصر الرقمية\Technical\EF Core Session 1\Mini\SimpleBank\obj\Debug\net10.0\SimpleBank.AssemblyInfoInputs.cache
+E:\رواد مصر الرقمية\Technical\EF Core Session 1\Mini\SimpleBank\obj\Debug\net10.0\SimpleBank.AssemblyInfo.cs
+E:\رواد مصر الرقمية\Technical\EF Core Session 1\Mini\SimpleBank\obj\Debug\net10.0\SimpleBank.csproj.CoreCompileInputs.cache
+E:\رواد مصر الرقمية\Technical\EF Core Session 1\Mini\SimpleBank\obj\Debug\net10.0\SimpleBank.sourcelink.json
+E:\رواد مصر الرقمية\Technical\EF Core Session 1\Mini\SimpleBank\obj\Debug\net10.0\SimpleBank.dll
+E:\رواد مصر الرقمية\Technical\EF Core Session 1\Mini\SimpleBank\obj\Debug\net10.0\refint\SimpleBank.dll
+E:\رواد مصر الرقمية\Technical\EF Core Session 1\Mini\SimpleBank\obj\Debug\net10.0\SimpleBank.pdb
+E:\رواد مصر الرقمية\Technical\EF Core Session 1\Mini\SimpleBank\obj\Debug\net10.0\SimpleBank.genruntimeconfig.cache
+E:\رواد مصر الرقمية\Technical\EF Core Session 1\Mini\SimpleBank\obj\Debug\net10.0\ref\SimpleBank.dll
+E:\رواد مصر الرقمية\Technical\EF Core Session 1\Mini\SimpleBank\obj\Debug\net10.0\SimpleBank.csproj.Up2Date

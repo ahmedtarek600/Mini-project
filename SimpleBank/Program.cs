@@ -1,4 +1,4 @@
-﻿namespace system_bank
+﻿namespace SimpleBank
 {
     internal class Program
     {
